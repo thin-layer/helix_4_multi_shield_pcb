@@ -32,7 +32,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 
 [Document1]
-DocumentPath=1 - Top.SchDoc
+DocumentPath=..\..\1 - Top.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -64,7 +64,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document3]
-DocumentPath=3 - IO Socket 1.SchDoc
+DocumentPath=..\..\3 - IO Socket 1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -80,7 +80,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document4]
-DocumentPath=2 - IO Socket 0.SchDoc
+DocumentPath=..\..\2 - IO Socket 0.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -96,7 +96,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document5]
-DocumentPath=4 - IO Socket 2.SchDoc
+DocumentPath=..\..\4 - IO Socket 2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -112,7 +112,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document6]
-DocumentPath=helix_4_multi_shield_host.OutJob
+DocumentPath=..\..\helix_4_multi_shield_host.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -128,7 +128,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document7]
-DocumentPath=helix_4_multi_shield_host.SCHLIB
+DocumentPath=..\..\helix_4_multi_shield_host.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -144,7 +144,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document8]
-DocumentPath=5 - PSOC & Power.SchDoc
+DocumentPath=..\..\5 - PSOC & Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -160,39 +160,39 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for helix_4_multi_shield_host\5 - PSOC & Power.BOM
+DocumentPath=..\..\Project Outputs for helix_4_multi_shield_host\5 - PSOC & Power.BOM
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for helix_4_multi_shield_host\5 - PSOC & Power.CSV
+DocumentPath=..\..\Project Outputs for helix_4_multi_shield_host\5 - PSOC & Power.CSV
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for helix_4_multi_shield_host\Design Rule Check - helix_4_multi_shield_host.html
+DocumentPath=..\..\Project Outputs for helix_4_multi_shield_host\Design Rule Check - helix_4_multi_shield_host.html
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for helix_4_multi_shield_host\helix_4_multi_shield_host.GBL
+DocumentPath=..\..\Project Outputs for helix_4_multi_shield_host\helix_4_multi_shield_host.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for helix_4_multi_shield_host\helix_4_multi_shield_host.GM1
+DocumentPath=..\..\Project Outputs for helix_4_multi_shield_host\helix_4_multi_shield_host.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for helix_4_multi_shield_host\helix_4_multi_shield_host.GM15
+DocumentPath=..\..\Project Outputs for helix_4_multi_shield_host\helix_4_multi_shield_host.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for helix_4_multi_shield_host\helix_4_multi_shield_host.GPB
+DocumentPath=..\..\Project Outputs for helix_4_multi_shield_host\helix_4_multi_shield_host.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for helix_4_multi_shield_host\helix_4_multi_shield_host.GTO
+DocumentPath=..\..\Project Outputs for helix_4_multi_shield_host\helix_4_multi_shield_host.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for helix_4_multi_shield_host\helix_4_multi_shield_host.RUL
+DocumentPath=..\..\Project Outputs for helix_4_multi_shield_host\helix_4_multi_shield_host.RUL
 DItemRevisionGUID=
 
 [PCBConfiguration1]
