@@ -1,0 +1,5 @@
+Record=SheetSymbol|SourceDocument=1 - Top.SchDoc|Designator=Socket 0|SchDesignator=Socket 0|FileName=2 - IO Socket 0.SchDoc|SymbolType=Normal|RawFileName=2 - IO Socket 0.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=1 - Top.SchDoc|Designator=Socket 1|SchDesignator=Socket 1|FileName=3 - IO Socket 1.SchDoc|SymbolType=Normal|RawFileName=3 - IO Socket 1.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=1 - Top.SchDoc|Designator=Socket 2|SchDesignator=Socket 2|FileName=4 - IO Socket 2.SchDoc|SymbolType=Normal|RawFileName=4 - IO Socket 2.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=1 - Top.SchDoc|Designator=U_5 - PSOC & Power|SchDesignator=U_5 - PSOC & Power|FileName=5 - PSOC & Power.SchDoc|SymbolType=Normal|RawFileName=5 - PSOC & Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=1 - Top.SchDoc
